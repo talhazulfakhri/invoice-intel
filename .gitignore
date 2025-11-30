@@ -1,0 +1,10 @@
+# Abaikan virtual environment (berat & ga perlu)
+venv/
+__pycache__/
+
+# Abaikan kunci rahasia (SANGAT PENTING)
+.streamlit/secrets.toml
+
+# Abaikan file system
+.DS_Store
+Thumbs.db
